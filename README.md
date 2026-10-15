@@ -14,5 +14,5 @@ Current interests: AI-native engineering, Go, system design, data, code understa
 - **[Three-Lane Model Harness](https://github.com/jonathanselby/three-lane-model-harness)** — a deliberately small Go harness for routing explicitly classified AI work across simple, standard and complex model lanes.
 - **[Enterprise AI Workbench](https://github.com/jonathanselby/enterprise-ai-workbench)** — small, reusable AI workflows for research, decisions, risks, policies and technical analysis.
 - **[Data Dictionary First](https://github.com/jonathanselby/data-dictionary-first)** — a practical case for governed data dictionaries and runtime semantics before committing to an enterprise ontology.
-- **Small Organisation Ops** — deliberately lightweight project, risk, policy and decision tools.
+- **[Small Organisation Ops](https://github.com/jonathanselby/small-organisation-ops)** — deliberately lightweight project, risk, policy and decision tools.
 - **[Engineering Under Constraints](https://github.com/jonathanselby/engineering-under-constraints)** — lessons from early computing and mission systems that remain useful in modern software.
