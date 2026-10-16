@@ -6,7 +6,7 @@ I build small, opinionated tools and methods for messy enterprise problems.
 
 My background is in enterprise technology, architecture and commercial delivery. These days I spend a lot of time using AI to make systems easier to understand, decisions easier to defend, and useful software faster to build.
 
-The garage opened in October 2026.
+The garage opened in October 2026, but on day 1 had a lot of historic thinking uploaded.
 
 Current interests: AI-native engineering, Go, system design, data, code understanding, constrained engineering and practical operating tools.
 
