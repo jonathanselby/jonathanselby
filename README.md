@@ -10,7 +10,7 @@ The garage opened in October 2026, but on day 1 had a lot of historic thinking u
 
 Current interests: AI-native engineering, Go, system design, data, code understanding, constrained engineering and practical operating tools.
 
-## Built
+## Built Micro Components
 
 - **[Three-Lane Model Harness](https://github.com/jonathanselby/three-lane-model-harness)** — a deliberately small Go harness for routing explicitly classified AI work across simple, standard and complex model lanes.
 - **[Enterprise AI Workbench](https://github.com/jonathanselby/enterprise-ai-workbench)** — small, reusable AI workflows for research, decisions, risks, policies and technical analysis.
