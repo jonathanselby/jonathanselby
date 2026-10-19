@@ -29,7 +29,7 @@ Current interests: AI-native engineering, Go, system design, data, code understa
 
 ## Build Games
 
-- **[Astro Answers](https://github.com/jonathanselby/astro-answers)**
+- **[Astro Answers](https://github.com/jonathanselby/astro-answers)** - Protect your space station from asteriods by solving maths problems or tying fast
 
 ## Methods
 
