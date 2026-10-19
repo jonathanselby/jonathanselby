@@ -29,7 +29,7 @@ Current interests: AI-native engineering, Go, system design, data, code understa
 
 ## Build Games
 
-- **Type Defence**
+- **[Astro Answers](https://github.com/jonathanselby/astro-answers)**
 
 ## Methods
 
