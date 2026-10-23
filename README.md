@@ -32,7 +32,7 @@ Current interests: AI-native engineering, Go, system design, data, code understa
 ## Built Games
 
 - **[Astro Answers](https://github.com/jonathanselby/astro-answers)** - Protect your space station from asteriods by solving maths problems or tying fast
-- **[Dandelion Drift]([https://github.com/jonathanselby/dandelion-drift))** - Keep your bunny and dandelion in the air by carefully dropping seeds
+- **[Dandelion Drift](https://github.com/jonathanselby/dandelion-drift)** - Keep your bunny and dandelion in the air by carefully dropping seeds
 
 ## Methods
 
